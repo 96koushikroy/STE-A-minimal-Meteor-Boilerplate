@@ -11,6 +11,7 @@ To create your project simply clone this repository:
     git clone https://github.com/96koushikroy/STE-A-minimal-Meteor-Boilerplate.git
 
 and start coding! 
+
 -----
 
 
