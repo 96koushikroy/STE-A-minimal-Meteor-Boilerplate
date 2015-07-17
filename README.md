@@ -29,6 +29,7 @@ Traits
 ----------
 
 Included Packages
+-------
 
  1. meteor-platform---Meteor Core API --- [Documentation](http://docs.meteor.com/#/full/)
  2. iron:router --- [Documentation](https://github.com/iron-meteor/iron-router)
@@ -42,6 +43,7 @@ Included Packages
 
 ---
 File Structure
+-------
 
 This boilerplate consists of the following structure:
 
