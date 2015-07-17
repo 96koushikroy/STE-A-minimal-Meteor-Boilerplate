@@ -47,32 +47,56 @@ File Structure
 
 This boilerplate consists of the following structure:
 
-.
-├── client
-│   ├── client-startup
-│   │   └── startup.js
-│   ├── layout.html
-│   ├── roles-login-not-required
-│   │   └── homepage
-│   │       ├── hello.html
-│   │       └── homepage.js
-│   └── roles-login-required
-├── global
-│   └── collections
-│       └── collections.js
-├── private
-├── public
-│   ├── design
-│   │   ├── css
-│   │   │   └── stbp.css
-│   │   └── js
-│   └── images
-├── routes
-│   └── routes.js
-└── server
-    ├── methods.js
-    ├── publications.js
-    └── startup.js
+. 
+├── client 
+
+│ ├── client-startup 
+
+│ │ └── startup.js 
+
+│ ├── layout.html 
+
+│ ├── roles-login-not-required 
+
+│ │ └── homepage 
+
+│ │ ├── hello.html 
+
+│ │ └── homepage.js 
+
+│ └── roles-login-required 
+
+├── global 
+
+│ └── collections 
+
+│ └── collections.js 
+
+├── private 
+
+├── public 
+
+│ ├── design 
+
+│ │ ├── css 
+
+│ │ │ └── stbp.css 
+
+│ │ └── js 
+
+│ └── images 
+
+├── routes 
+
+│ └── routes.js 
+
+└── server 
+
+├── methods.js 
+
+├── publications.js 
+
+└── startup.js
 
 To know more about Meteors file structure. Please have a look at the link: http://docs.meteor.com/#/basic/filestructure 
 
