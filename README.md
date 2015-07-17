@@ -10,6 +10,8 @@ To create your project simply clone this repository:
 
     git clone https://github.com/96koushikroy/STE-A-minimal-Meteor-Boilerplate.git
 
+and start coding! 
+
 -----
 
 
@@ -27,6 +29,7 @@ Traits
 ----------
 
 Included Packages
+-------
 
  1. meteor-platform---Meteor Core API --- [Documentation](http://docs.meteor.com/#/full/)
  2. iron:router --- [Documentation](https://github.com/iron-meteor/iron-router)
@@ -40,35 +43,60 @@ Included Packages
 
 ---
 File Structure
+-------
 
 This boilerplate consists of the following structure:
 
-.
-├── client
-│   ├── client-startup
-│   │   └── startup.js
-│   ├── layout.html
-│   ├── roles-login-not-required
-│   │   └── homepage
-│   │       ├── hello.html
-│   │       └── homepage.js
-│   └── roles-login-required
-├── global
-│   └── collections
-│       └── collections.js
-├── private
-├── public
-│   ├── design
-│   │   ├── css
-│   │   │   └── stbp.css
-│   │   └── js
-│   └── images
-├── routes
-│   └── routes.js
-└── server
-    ├── methods.js
-    ├── publications.js
-    └── startup.js
+. 
+├── client 
+
+│ ├── client-startup 
+
+│ │ └── startup.js 
+
+│ ├── layout.html 
+
+│ ├── roles-login-not-required 
+
+│ │ └── homepage 
+
+│ │ ├── hello.html 
+
+│ │ └── homepage.js 
+
+│ └── roles-login-required 
+
+├── global 
+
+│ └── collections 
+
+│ └── collections.js 
+
+├── private 
+
+├── public 
+
+│ ├── design 
+
+│ │ ├── css 
+
+│ │ │ └── stbp.css 
+
+│ │ └── js 
+
+│ └── images 
+
+├── routes 
+
+│ └── routes.js 
+
+└── server 
+
+├── methods.js 
+
+├── publications.js 
+
+└── startup.js
 
 To know more about Meteors file structure. Please have a look at the link: http://docs.meteor.com/#/basic/filestructure 
 
